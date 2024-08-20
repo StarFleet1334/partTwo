@@ -4,7 +4,7 @@ modified line3
 line4
 modified line5
 line6
-line7
+modified line7
 line8
-line9
+modified line9
 line10
