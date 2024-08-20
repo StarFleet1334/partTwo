@@ -1,10 +1,10 @@
-line1
+folder2 line1
 line2
-modified line3
+modified folder2 line3
 line4
 modified line5
 line6
 modified line7
 line8
 modified line9
-line10
+folder2 line10
